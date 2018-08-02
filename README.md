@@ -9,7 +9,7 @@ Finally made up my mind to actually "do" something rather than just glumping aro
 <br/><br/>
 
 ### Day 2: August 1, Wednesday
-<br/>
+ 
 **Today's Progress:** Finished the "Basic HTML and HTML5" chapter and Enrolled in David J Malan's CS50: Intro to CS!<br/>
 **Thoughts:** Overall thoughts for the coding in freeCodeCamp is that, eventhough I pass the confirm stage, it seems like I'm only understanding 70% of the concept.  I'm still confused if the blue letters within "" in the functions are critical values or whether I can change them if I want.  Better check it out.  As for CS50, sooo excited!!<br/>
 **Link to work:** [freeCodeCamp: Basic HTML and HTML5](https://learn.freecodecamp.org/)
