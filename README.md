@@ -21,3 +21,6 @@ __*Finally made up my mind to actually "do" something rather than just moping ar
 **Thoughts:** For the problem set - So much to consider when choosing the theme (can't be similar to other peoples projects etc.).
 **Link to work:**  Will upload soon.
 <br/><br/>
+
+I'll upload day 4-6 soon.  Been focusing on my twitter account, so my daily works are in there.
+<br/><br/>
