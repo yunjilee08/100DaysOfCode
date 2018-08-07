@@ -22,5 +22,27 @@ __*Finally made up my mind to actually "do" something rather than just moping ar
 **Link to work:**  Will upload soon.
 <br/><br/>
 
-I'll upload day 4-6 soon.  Been focusing on my twitter account, so my daily works are in there.
+### Day 4: August 3, Friday
+
+**Today's Progress:** More freeCodeCamp and figuring out how GitHub works.  
+**Thoughts:** After an hour of studying GitHub, I've got notta LOL.  A sweet fellow twitterer(?) told me there's a GitHub Tutorial.  Maybe I'll check it out.
+<br/><br/>
+
+### Day 5: August 4, Saturday
+
+**Today's Progress:**   Continuing on the #freeCodeCamp curriculums.
+**Thoughts:** Can't believe how good this program is.  It teaches you from the beginning and has reminders on the way to help those who are lost.
+**Link to work:**  #freeCodeCamp
+</br></br>
+
+### Day 6: August 5, Sunday
+
+**Today's Progress:**  Not much today.  Made more ideas for CS50.
+**Thoughts:**  Rather than jurassic world, maybe a more galaxy theme would be better.
+<br/><br/>
+
+### Day 7: August 6, Monday
+
+**Today's Progress:** More #freeCodeCamp sets!
+**Thoughts:** It's getting harder to memorize the selectors.  Maybe a retry after the session is over.
 <br/><br/>
