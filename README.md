@@ -30,14 +30,14 @@ __*Finally made up my mind to actually "do" something rather than just moping ar
 
 ### Day 5: August 4, Saturday
 
-**Today's Progress:**   Continuing on the #freeCodeCamp curriculums.
+**Today's Progress:**   Continuing on the #freeCodeCamp curriculums.  
 **Thoughts:** Can't believe how good this program is.  It teaches you from the beginning and has reminders on the way to help those who are lost.
 **Link to work:**  #freeCodeCamp
 </br></br>
 
 ### Day 6: August 5, Sunday
 
-**Today's Progress:**  Not much today.  Made more ideas for CS50.
+**Today's Progress:**  Not much today.  Made more ideas for CS50.  
 **Thoughts:**  Rather than jurassic world, maybe a more galaxy theme would be better.
 <br/><br/>
 
