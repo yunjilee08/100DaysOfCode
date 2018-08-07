@@ -43,6 +43,13 @@ __*Finally made up my mind to actually "do" something rather than just moping ar
 
 ### Day 7: August 6, Monday
 
-**Today's Progress:** More #freeCodeCamp sets!
+**Today's Progress:** More #freeCodeCamp sets!  
 **Thoughts:** It's getting harder to memorize the selectors.  Maybe a retry after the session is over.
+<br/><br/>
+
+### Day 8: August 7, Tuesday
+
+**Today's Progress:**  Learned about the (computer's) priorities when setting colors etc.  Guess body << class << id << !important  LOL  and also learned about hex codes and RGB codes.  
+**Thoughts:**  Interesting to understand the relationships between hex and rgb.  Love that coding is soooo clear compared to other fields.
+**Link to work:**  [wanna see a penguin?](https://twitter.com/YunjiLee08/status/1026832445931380736)
 <br/><br/>
