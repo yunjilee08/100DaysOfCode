@@ -53,3 +53,10 @@ __*Finally made up my mind to actually "do" something rather than just moping ar
 **Thoughts:**  Interesting to understand the relationships between hex and rgb.  Love that coding is soooo clear compared to other fields.
 **Link to work:**  [wanna see a penguin?](https://twitter.com/YunjiLee08/status/1026832445931380736)
 <br/><br/>
+
+### Day 8: August 8, Wednesday
+
+**Today's Progress:**  Starting visual design in #freeCodeCamp.  
+**Thoughts:**  Still have some parts from the former Chapter of Basic CSS that I don't understand.  Better try the curriculum again.
+**Link to work:**  :)
+<br/><br/>
